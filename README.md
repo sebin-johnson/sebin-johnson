@@ -25,5 +25,5 @@ Welcome to my GitHub! I’m passionate about crafting dynamic and scalable web a
 
 ### 🌟 Connect With Me
 
-📩 **Email:** [sebin.johnson.dev@gmail.com](mailto\:sebin.johnson.dev@gmail.com)\
-💼 **LinkedIn:** https\://www\.linkedin.com/in/sebin-johnson-685ba72b2?utm\_source=share&utm\_campaign=share\_via&utm\_content=profile&utm\_medium=android\_app
+📩 **Email:** sebinvalloor26\@gmail.com\
+💼 **LinkedIn:** [https://www.linkedin.com/in/sebin-johnson-685ba72b2?utm\_source=share&utm\_campaign=share\_via&utm\_content=profile&utm\_medium=android\_app](https://www.linkedin.com/in/sebin-johnson-685ba72b2?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=android_app)
