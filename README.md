@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hello, I'm Sebin Johnson!
 
-<!--
-**sebin-johnson/sebin-johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about crafting dynamic and scalable web applications using modern technologies like React, Node.js, Express, and MongoDB. I love solving real-world challenges and delivering user-friendly solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Expertise
+
+✅ Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS✅ Backend: Node.js, Express.js✅ Database: MongoDB✅ Tools: Git, GitHub, Postman, VS Code
+
+📚 Current Learning Journey
+
+🚀 Mastering Advanced Express.js Concepts🔐 Enhancing Security with JWT Authentication☁️ Deploying & Scaling Full-Stack Applications
+
+🌟 Connect With Me
+
+📩 Email: sebinvalloor26@gmail.com 💼 LinkedIn: [Your LinkedIn Profile]
+
