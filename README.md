@@ -6,7 +6,10 @@ Welcome to my GitHub! I’m passionate about crafting dynamic and scalable web a
 
 🔥 Expertise
 
-✅ Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS✅ Backend: Node.js, Express.js✅ Database: MongoDB✅ Tools: Git, GitHub, Postman, VS Code
+✅ Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS✅ 
+Backend: Node.js, Express.js✅ 
+Database: MongoDB✅ 
+Tools: Git, GitHub, Postman, VS Code
 
 📚 Current Learning Journey
 
@@ -14,5 +17,6 @@ Welcome to my GitHub! I’m passionate about crafting dynamic and scalable web a
 
 🌟 Connect With Me
 
-📩 Email: sebinvalloor26@gmail.com 💼 LinkedIn: [Your LinkedIn Profile]
+📩 Email: sebinvalloor26@gmail.com 
+💼 LinkedIn: [Your LinkedIn Profile]
 
